@@ -1,6 +1,16 @@
 <?php 
 /** 
- * plugin Name: Contact Form Plugin*/
+ * plugin Name: Contact3248
+ 
+ * Plugin URI:        https://example.com/plugins/Contact3248/
+ * Description:       Handle the basics with this plugin.
+ * Version:           1.10.3
+ * Requires at least: 5.2
+ * Requires PHP:      7.2
+ * Author:            Henock Yonas
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain:       Contact3248-plugin*/
 function Contact_form()
     {
         $content='';
